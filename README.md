@@ -1,2 +1,2 @@
-# moneycalc_bot
-Telegram bot which can store your expenses into google table
+# MoneyCalcBot
+Telegram bot which can write your expenses in google table from a user frendly bot actions :)
